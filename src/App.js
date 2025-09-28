@@ -115,7 +115,7 @@ export default function App() {
      <div className="page">
     <div className="container">
       <div className="card">
-        <h2>Membership Cancellation Fee Calculator</h2>
+        <h2>Membership Cancellation Fee Calculator YMCA Sports Center</h2>
 
         <label>
           Purchase Date:
